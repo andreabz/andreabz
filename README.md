@@ -1,6 +1,6 @@
 # Andrea Bazzano
 
-**Analytical chemist · Environmental chemistry · Data analysis · Statistical modelling**
+**Analytical chemist · Analytical measurement · Experimental design · Statistical modelling**
 
 I am a chemist working at the intersection of **analytical chemistry, environmental measurements and quantitative data analysis**.
 
@@ -20,11 +20,6 @@ I use **R and Quarto** to make analyses transparent, reproducible and easier to 
 * Quality-oriented approaches to laboratory work
 
 ## Selected projects
-
-### Analytical chemistry and environmental research
-
-[**psa_pb_ny-alesund**](https://github.com/andreabz/psa_pb_ny-alesund)  
-Reproducible analysis supporting research on potential source areas of atmospheric lead reaching Ny-Ålesund.
 
 ### Method validation
 
@@ -48,6 +43,11 @@ An experimental perspective on mixed-effects models, focusing on experimental un
 
 [**SIprecisa**](https://github.com/ARPAL-liguria-it/SIprecisa)  
 R/Shiny application for evaluating precision and trueness of analytical measurements, with automated testing and deployment through Docker/ShinyProxy.
+
+### Analytical chemistry and environmental research
+
+[**psa_pb_ny-alesund**](https://github.com/andreabz/psa_pb_ny-alesund)  
+Reproducible analysis supporting research on potential source areas of atmospheric lead reaching Ny-Ålesund.
 
 ## How I approach data analysis
 
