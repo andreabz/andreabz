@@ -39,7 +39,7 @@ A progressive exploration of ANOVA, linear models, ANCOVA, interactions, diagnos
 [**mixed_models**](https://github.com/andreabz/mixed_models)  
 An experimental perspective on mixed-effects models, focusing on experimental units, non-independence, variance structure and uncertainty.
 
-### Analytical software
+### Scientific software and data workflows
 
 [**SIprecisa**](https://github.com/ARPAL-liguria-it/SIprecisa)  
 R/Shiny application for evaluating precision and trueness of analytical measurements, with automated testing and deployment through Docker/ShinyProxy.
