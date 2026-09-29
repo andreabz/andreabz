@@ -47,7 +47,7 @@ An experimental perspective on mixed-effects models, focusing on experimental un
 ### Analytical software
 
 [**SIprecisa**](https://github.com/ARPAL-liguria-it/SIprecisa)  
-An experimental R/Shiny application for evaluating precision and trueness of analytical measurements, with automated testing and deployment through Docker/ShinyProxy.
+R/Shiny application for evaluating precision and trueness of analytical measurements, with automated testing and deployment through Docker/ShinyProxy.
 
 ## How I approach data analysis
 
