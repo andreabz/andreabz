@@ -16,7 +16,7 @@ I use **R and Quarto** to make analyses transparent, reproducible and easier to 
 * Experimental design
 * ANOVA, linear models and mixed-effects models
 * Reproducible data analysis and reporting
-* R, data.table and Quarto
+* `R`, `data.table` and `Quarto`
 * Quality-oriented approaches to laboratory work
 
 ## Selected projects
